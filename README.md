@@ -88,14 +88,14 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output:
-![linear regression using gradient descent]![Screenshot 2023-10-02 123047](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/8e9fc8ab-304e-4af3-91de-11b3b208170e)
-![linear regression using gradient descent]![Screenshot 2023-10-02 123103](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/d7a79113-c5c9-4479-8a83-7af3f41e46d5)
-![linear regression using gradient descent]![Screenshot 2023-10-02 123117](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/bc3db1cd-19be-4fae-88ce-e8d388ea5404)
-![linear regression using gradient descent]![Screenshot 2023-10-02 123134](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/a22c9c50-46e9-4868-b58d-81c0bb4b504d)
-![linear regression using gradient descent]![Screenshot 2023-10-02 123152](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/e58ac048-67ca-4fb1-bc2b-e2a547385342)
-![linear regression using gradient descent]![Screenshot 2023-10-02 125725](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/18af4721-4588-45db-9caa-2152aa70d2e9)
+[Screenshot 2023-10-02 123047](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/8e9fc8ab-304e-4af3-91de-11b3b208170e)
+Screenshot 2023-10-02 123103](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/d7a79113-c5c9-4479-8a83-7af3f41e46d5)
+[Screenshot 2023-10-02 123117](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/bc3db1cd-19be-4fae-88ce-e8d388ea5404)
+[Screenshot 2023-10-02 123134](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/a22c9c50-46e9-4868-b58d-81c0bb4b504d)
+[Screenshot 2023-10-02 123152](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/e58ac048-67ca-4fb1-bc2b-e2a547385342)
+[Screenshot 2023-10-02 125725](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/18af4721-4588-45db-9caa-2152aa70d2e9)
 
-![linear regression using gradient descent]![Screenshot 2023-10-02 125733](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/8aeb3e50-002f-4db6-945a-4f4996e78e17)
+[Screenshot 2023-10-02 125733](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/8aeb3e50-002f-4db6-945a-4f4996e78e17)
 
 
 ## Result:
