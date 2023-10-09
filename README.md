@@ -88,19 +88,27 @@ print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)
 ```
 
 ## Output:
-[Screenshot 2023-10-02 123047](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/8e9fc8ab-304e-4af3-91de-11b3b208170e)
+![Screenshot 2023-10-09 103905](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/5a3b212d-517c-4aea-a12b-faa2fdbf8fe5)
 
-[Screenshot 2023-10-02 123103](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/d7a79113-c5c9-4479-8a83-7af3f41e46d5)
 
-[Screenshot 2023-10-02 123117](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/bc3db1cd-19be-4fae-88ce-e8d388ea5404)
+![Screenshot 2023-10-09 103930](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/e142b373-6106-4810-8a24-69f2f7c4f851)
 
-[Screenshot 2023-10-02 123134](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/a22c9c50-46e9-4868-b58d-81c0bb4b504d)
 
-[Screenshot 2023-10-02 123152](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/e58ac048-67ca-4fb1-bc2b-e2a547385342)
+![Screenshot 2023-10-09 103951](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/cc02f4e8-95d5-4558-9817-4d9486bd4a74)
 
-[Screenshot 2023-10-02 125725](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/18af4721-4588-45db-9caa-2152aa70d2e9)
 
-[Screenshot 2023-10-02 125733](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/8aeb3e50-002f-4db6-945a-4f4996e78e17)
+![Screenshot 2023-10-09 104021](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/0debf3e4-c3a7-4a62-99ee-c5274a699a0e)
+
+
+![Screenshot 2023-10-09 104054](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/234301af-d52e-43ec-992c-7c3e2f518e99)
+
+
+![Screenshot 2023-10-09 104116](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/3c751750-9333-46fa-a5ba-f6d2553a8545)
+
+
+![Screenshot 2023-10-09 104133](https://github.com/22008496/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119476113/ec6fd3c9-79e8-4bf9-aa21-95becf12b0cf)
+
+
 
 
 ## Result:
